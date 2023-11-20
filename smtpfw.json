@@ -1,0 +1,8 @@
+{
+	"inHost": "0.0.0.0",
+	"inPort": 8025,
+	"outHost": "",
+	"outPort": 587,
+	"outUsername": "",
+	"outPassword": ""
+}
